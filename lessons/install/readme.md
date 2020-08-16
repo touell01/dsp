@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-Python
+Python 3.7.3
  
 
 
